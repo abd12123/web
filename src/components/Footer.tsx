@@ -15,11 +15,11 @@ const Footer = () => {
                 <span className="text-white font-bold text-xl">OS</span>
               </div>
               <span className="font-display font-bold text-xl text-white">
-                Optimal Solutions
+                AONJI
               </span>
             </div>
             <p className="text-sm leading-relaxed">
-              Creating optimal solutions for complex challenges. We transform businesses through innovative technology and strategic thinking.
+              Creating AONJI for complex challenges. We transform businesses through innovative technology and strategic thinking.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="hover:text-primary-400 dark:hover:text-primary-300 transition-colors">
